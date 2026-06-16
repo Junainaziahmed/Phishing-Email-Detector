@@ -1,0 +1,16 @@
+
+        ---------------------
+        Category: General Phishing
+        Risk Score: 0
+        ---------------------
+        
+        ---------------------
+        Category: Banking Scam
+        Risk Score: 8
+        ---------------------
+        
+        ---------------------
+        Category: Banking Scam
+        Risk Score: 8
+        ---------------------
+        
